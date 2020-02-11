@@ -1,0 +1,7 @@
+public class Nana
+{
+    public static void main(String[] args)
+    {
+        System.out.println("ブランチの理解が足りていません");
+    }
+}
